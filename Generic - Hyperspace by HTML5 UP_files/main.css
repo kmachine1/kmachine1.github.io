@@ -1833,7 +1833,7 @@ input, select, textarea {
 		transition: border-color 0.2s ease;
 		background-color: transparent;
 		border: solid 1px !important;
-		border-color: rgba(255, 255, 255, 0.15) !important;
+		border-color: rgba(255, 255, 255, 0.39) !important;
 		border-radius: 3em;
 		color: #ffffff !important;
 		cursor: pointer;
@@ -1989,7 +1989,7 @@ input, select, textarea {
 		flex-wrap: wrap;
 		border-radius: 0.25em;
 		border: solid 1px rgba(255, 255, 255, 0.15);
-		background: rgba(255, 255, 255, 0.05);
+		background: rgba(255, 255, 255, 0.412);
 		margin: 0 0 2em 0;
 	}
 
@@ -3504,7 +3504,7 @@ input, select, textarea {
 		}
 
 	#footer > .inner a {
-		border-bottom-color: rgba(255, 255, 255, 0.15);
+		border-bottom-color: rgba(255, 255, 255, 0.427);
 	}
 
 		#footer > .inner a:hover {
@@ -3524,7 +3524,7 @@ input, select, textarea {
 
 	#sidebar {
 		padding: 2.5em 2.5em 0.5em 2.5em ;
-		background: #312450;
+		background: #295024;
 		cursor: default;
 		height: 100vh;
 		left: 0;
