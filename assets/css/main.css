@@ -4182,39 +4182,38 @@ body.is-preload #sidebar nav ul li {
   overflow: hidden;
 }
 
-#intro:before {
-  content: "";
-  position: absolute;
-  z-index: -1;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  -webkit-box-shadow: inset 600px 600px 7000px #141b52;
-          box-shadow: inset 600px 600px 7000px #141b52;
-  -webkit-filter: blur(10px);
-          filter: blur(10px);
-  margin: -20px;
-}
+#intro {
+		background-attachment: fixed;
+		background-image: url("images/intro.svg");
+		background-position: top right;
+		background-repeat: no-repeat;
+		background-size: 100% 100%;
+	}
 
-#intro p {
-  font-size: 1.25em;
-}
+		#intro p {
+			font-size: 1.25em;
+		}
 
-@media screen and (max-width: 980px) {
-  #intro p br {
-    display: none;
-  }
-}
+			@media screen and (max-width: 980px) {
 
-@media screen and (max-width: 736px) {
-  #intro p {
-    font-size: 1em;
-  }
-}
+				#intro p br {
+					display: none;
+				}
 
-@media screen and (max-width: 1280px) {
-  #intro {
-    background-attachment: scroll;
-  }
-}
+			}
+
+			@media screen and (max-width: 736px) {
+
+				#intro p {
+					font-size: 1em;
+				}
+
+			}
+
+		@media screen and (max-width: 1280px) {
+
+			#intro {
+				background-attachment: scroll;
+			}
+
+		}
