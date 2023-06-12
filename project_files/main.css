@@ -3235,33 +3235,33 @@ input, select, textarea {
 
 			}
 
-		.wrapper.alt {
-			background-color: #261c3e;
-		}
+					.wrapper.alt {
+			  background-color: #110a72;
+			}
 
-		.wrapper.style1 {
-			background-color: #5e42a6;
-		}
+			.wrapper.style1 {
+			  background-color: #36539760;
+			}
 
-		.wrapper.style1-alt {
-			background-color: #493382;
-		}
+			.wrapper.style1-alt {
+			  background-color: #0332504b;
+			}
 
-		.wrapper.style2 {
-			background-color: #5052b5;
-		}
+			.wrapper.style2 {
+			  background-color: #3e948d;
+			}
 
-		.wrapper.style2-alt {
-			background-color: #3e4094;
-		}
+			.wrapper.style2-alt {
+			  background-color: #3e948d;
+			}
 
-		.wrapper.style3 {
-			background-color: #b74e91;
-		}
+			.wrapper.style3 {
+			  background-color: #90bdbd4c;
+			}
 
-		.wrapper.style3-alt {
-			background-color: #953d75;
-		}
+			.wrapper.style3-alt {
+			  background-color: #1460a2;
+			}
 
 		.wrapper.fullscreen {
 			display: -moz-flex;
