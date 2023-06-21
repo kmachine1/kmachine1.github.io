@@ -4072,12 +4072,12 @@ body.is-ie #sidebar > .inner {
 }
 
 #sidebar nav a:before {
-  background: #3c2c62;
+  background: #5e42a6;
 }
 
 #sidebar nav a:after {
-  background-image: -webkit-gradient(linear, left top, right top, from(#041b8d), to(#429ca6));
-  background-image: linear-gradient(to right, #041b8d, #429ca6);
+  background-image: -webkit-gradient(linear, left top, right top, from(#5e42a6), to(#4eb796));
+  background-image: linear-gradient(to right, #5e42a6, #4eb796);
   -webkit-transition: max-width 0.2s ease;
   transition: max-width 0.2s ease;
   max-width: 0;
