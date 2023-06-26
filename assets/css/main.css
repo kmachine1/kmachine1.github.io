@@ -198,6 +198,12 @@ body.is-preload *:after {
   transition: none !important;
 }
 
+.bold
+{
+    font-weight: bold;
+    color: #2FDEDB;
+}
+
 /* Type */
 body,
 input,
