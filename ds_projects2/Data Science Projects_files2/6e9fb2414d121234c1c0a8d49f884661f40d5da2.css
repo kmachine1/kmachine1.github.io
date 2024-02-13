@@ -21,7 +21,7 @@
     content: '';
     position: absolute;
     width: 6px;
-    background-color: #b300ff;
+    background-color: #24dbc9;
     top: 0;
     bottom: 0;
     left: 50%;
@@ -69,9 +69,9 @@
   width: 0;
   z-index: 5;
   right: 30px;
-  border: medium solid #b300ff;
+  border: medium solid #24dbc9;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent #b300ff;
+  border-color: transparent transparent transparent #24dbc9;
 }
 
 /* Add arrows to the right container (pointing left) */
@@ -83,9 +83,9 @@
   width: 0;
   z-index: 5;
   left: 30px;
-  border: medium solid #b300ff;
+  border: medium solid #24dbc9;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #b300ff transparent transparent;
+  border-color: transparent #24dbc9 transparent transparent;
 }
 
 /* Fix the circle for containers on the right side */
@@ -98,7 +98,7 @@
   padding: 20px 30px;
   background-color: white;
   position: relative;
-  border: 2px solid #b300ff;
+  border: 2px solid #24dbc9;
   border-radius: 6px;
 }
 
@@ -120,9 +120,9 @@
 /* Make sure that all arrows are pointing leftwards */
 .container-timeline::before {
   left: 60px;
-  border: medium solid #b300ff;
+  border: medium solid #24dbc9;
   border-width: 10px 10px 10px 0;
-  border-color: transparent #b300ff transparent transparent;
+  border-color: transparent #24dbc9 transparent transparent;
 }
 
 /* Make sure all circles are at the same spot */
@@ -153,7 +153,7 @@ hr {
 
 h2.about-header
 {
-    color: #b300ff;
+    color: #24dbc9;
 }
 
 .about-row
@@ -200,7 +200,7 @@ h2.about-header
     position: absolute;
     height: 100%;
     background-image: linear-gradient(to bottom right, rgba(94, 30, 159,1), rgba(94, 30, 159, 0.5));
-    /*background-color: #b300ff;*/
+    /*background-color: #24dbc9;*/
     border-radius: 3px;
     z-index: 10;
 }
